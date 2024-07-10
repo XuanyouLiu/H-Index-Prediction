@@ -1,4 +1,4 @@
-# CIS 5190 Final Project
+# H Index Prediction
 
 ## Project Name
 
